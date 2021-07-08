@@ -1,0 +1,2 @@
+com/bridgelabz/selenium/test/Log4j_And_Reports_Test.java
+ com.bridgelabz.selenium.test.Log4j_And_Reports_Test

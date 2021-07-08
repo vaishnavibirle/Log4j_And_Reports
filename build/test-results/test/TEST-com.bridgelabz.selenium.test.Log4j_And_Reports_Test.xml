@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.selenium.test.Log4j_And_Reports_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-08T13:02:40" hostname="LAPTOP-GG01EQKS" time="9.903">
+  <properties/>
+  <testcase name="login" classname="com.bridgelabz.selenium.test.Log4j_And_Reports_Test" time="9.903"/>
+  <system-out><![CDATA[Login Successfull..!
+Method passed login
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
