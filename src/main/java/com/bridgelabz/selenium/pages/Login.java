@@ -35,6 +35,10 @@ public class Login extends BaseClass {
     WebElement Password;
     @FindBy(className = "login__form_action_container")
     WebElement signin_btn;
+    @FindBy(xpath = "//img[@id='ember34']")
+    WebElement profile_dropdown;
+    @FindBy(xpath = "//a[normalize-space()='Sign Out']")
+    WebElement Sign_out;
 
     public  Login(WebDriver driver) {
         PageFactory.initElements(driver,this);
@@ -51,6 +55,12 @@ public class Login extends BaseClass {
         Log.info("clicking on signIn for logging into application");
         signin_btn.click();
         Thread.sleep(2000);
+        Log.info("Clicking on profile button");
+        profile_dropdown.click();
+        Thread.sleep(3000);
+        Log.info("Clicking on sign out");
+        Sign_out.click();
+        Thread.sleep(1000);
         Log.info("getting title of page");
         return driver.getTitle();
     }

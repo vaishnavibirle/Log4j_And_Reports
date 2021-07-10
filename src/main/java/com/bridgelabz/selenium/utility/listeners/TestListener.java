@@ -3,9 +3,14 @@ package com.bridgelabz.selenium.utility.listeners;
 import com.bridgelabz.selenium.base.BaseClass;
 import com.bridgelabz.selenium.utility.CaptureScreenshot;
 import com.bridgelabz.selenium.utility.Log;
+import io.qameta.allure.Allure;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
+
+import java.io.ByteArrayInputStream;
 
 public class TestListener extends BaseClass implements ITestListener {
 
@@ -15,6 +20,7 @@ public class TestListener extends BaseClass implements ITestListener {
         System.out.println("Method failed " + result.getName());
         Log.warn("Test is failed" );
         captureScreenshot.captureScreenshot(result.getName(), "failed");
+        Allure.addAttachment(result.getName(), new ByteArrayInputStream(((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES)));
     }
 
     @Override
@@ -47,5 +53,7 @@ public class TestListener extends BaseClass implements ITestListener {
         System.out.println("Method passed " + result.getName());
         Log.info("Test is successfully passed");
         captureScreenshot.captureScreenshot(result.getName(), "success");
+        Allure.addAttachment(result.getName(), new ByteArrayInputStream(((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES)));
+
     }
 }

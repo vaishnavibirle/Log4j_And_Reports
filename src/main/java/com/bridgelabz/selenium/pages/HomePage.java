@@ -13,9 +13,9 @@ public class HomePage extends BaseClass {
     WebElement profile_dropdown;
     @FindBy(xpath = "//a[normalize-space()='Sign Out']")
     WebElement Sign_out;
-    @FindBy(xpath = "//button[@id='ember412']")
-    WebElement remember;
-
+//    @FindBy(xpath = "//button[@id='ember412']")
+//    WebElement remember;
+//
 
     public  HomePage(WebDriver driver) {
         PageFactory.initElements(driver,this);
@@ -28,7 +28,7 @@ public class HomePage extends BaseClass {
         Log.info("Clicking on sign out");
         Sign_out.click();
         Thread.sleep(1000);
-        remember.click();
+//        remember.click();
         Log.info("logout process ended");
         Thread.sleep(2000);
         return driver.getTitle();

@@ -11,16 +11,16 @@ import org.testng.annotations.Test;
 @Listeners(TestListener.class)
 public class Log4j_And_Reports_Test extends BaseClass {
 
-    @Test
+    @Test (priority = 1)
     public void login() throws InterruptedException{
         Login login = new Login(driver);
         String actualTitle = login.login();
-        String expectedTitle = "Feed | LinkedIn";
+        String expectedTitle = "LinkedIn: Log In or Sign Up";
         Assert.assertEquals(actualTitle,expectedTitle);
         System.out.println("Login Successfull..!");
     }
 
-    @Test
+    @Test (priority = 2)
     public void logout() throws InterruptedException {
         Login login = new Login(driver);
         login.login();
