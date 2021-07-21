@@ -1,0 +1,178 @@
+[INFO ] 2021-07-10 13:26:24.406 [Test worker] Log - Test is starting
+[INFO ] 2021-07-10 13:26:24.418 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-10 13:26:26.489 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-10 13:26:27.705 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-10 13:26:32.736 [Test worker] Log - loginTest is starting
+[INFO ] 2021-07-10 13:26:32.782 [Test worker] Log - Clicking on SignIn button
+[INFO ] 2021-07-10 13:26:35.246 [Test worker] Log - Sending email using sendKeys
+[INFO ] 2021-07-10 13:26:35.523 [Test worker] Log - sending password using sendKeys
+[INFO ] 2021-07-10 13:26:35.824 [Test worker] Log - clicking on signIn for logging into application
+[INFO ] 2021-07-10 13:26:58.311 [Test worker] Log - getting title of page
+[WARN ] 2021-07-10 13:26:58.344 [Test worker] Log - Test is failed
+[INFO ] 2021-07-10 13:26:59.548 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-10 13:27:03.715 [Test worker] Log - Test is ended
+[INFO ] 2021-07-10 13:27:03.716 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-10 13:31:45.212 [Test worker] Log - Test is starting
+[INFO ] 2021-07-10 13:31:45.220 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-10 13:31:46.847 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-10 13:31:48.067 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-10 13:31:53.135 [Test worker] Log - loginTest is starting
+[INFO ] 2021-07-10 13:31:53.184 [Test worker] Log - Clicking on SignIn button
+[INFO ] 2021-07-10 13:31:55.641 [Test worker] Log - Sending email using sendKeys
+[INFO ] 2021-07-10 13:31:55.814 [Test worker] Log - sending password using sendKeys
+[INFO ] 2021-07-10 13:31:55.975 [Test worker] Log - clicking on signIn for logging into application
+[INFO ] 2021-07-10 13:32:07.742 [Test worker] Log - getting title of page
+[INFO ] 2021-07-10 13:32:07.776 [Test worker] Log - Test is successfully passed
+[INFO ] 2021-07-10 13:32:09.022 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-10 13:32:13.184 [Test worker] Log - Test is ended
+[INFO ] 2021-07-10 13:32:13.185 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-10 14:44:12.725 [Test worker] Log - Test is starting
+[INFO ] 2021-07-10 14:44:12.729 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-10 14:44:14.430 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-10 14:44:15.530 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-10 14:44:20.580 [Test worker] Log - loginTest is starting
+[INFO ] 2021-07-10 14:44:20.629 [Test worker] Log - Clicking on SignIn button
+[INFO ] 2021-07-10 14:44:22.801 [Test worker] Log - Sending email using sendKeys
+[INFO ] 2021-07-10 14:44:22.877 [Test worker] Log - sending password using sendKeys
+[INFO ] 2021-07-10 14:44:22.948 [Test worker] Log - clicking on signIn for logging into application
+[INFO ] 2021-07-10 14:44:33.212 [Test worker] Log - getting title of page
+[INFO ] 2021-07-10 14:44:33.221 [Test worker] Log - Test is successfully passed
+[INFO ] 2021-07-10 14:44:33.963 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-10 14:44:38.145 [Test worker] Log - Test is ended
+[INFO ] 2021-07-10 14:44:38.146 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-10 15:17:48.134 [Test worker] Log - Test is starting
+[INFO ] 2021-07-10 15:17:48.138 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-10 15:17:49.837 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-10 15:17:51.581 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-10 15:17:56.614 [Test worker] Log - loginTest is starting
+[INFO ] 2021-07-10 15:17:56.663 [Test worker] Log - Clicking on SignIn button
+[INFO ] 2021-07-10 15:17:59.191 [Test worker] Log - Sending email using sendKeys
+[INFO ] 2021-07-10 15:17:59.307 [Test worker] Log - sending password using sendKeys
+[INFO ] 2021-07-10 15:17:59.374 [Test worker] Log - clicking on signIn for logging into application
+[INFO ] 2021-07-10 15:18:08.905 [Test worker] Log - getting title of page
+[WARN ] 2021-07-10 15:18:08.917 [Test worker] Log - Test is failed
+[INFO ] 2021-07-10 15:18:09.894 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-10 15:18:10.032 [Test worker] Log - Test is ended
+[INFO ] 2021-07-10 15:18:10.034 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-10 15:19:01.812 [Test worker] Log - Test is starting
+[INFO ] 2021-07-10 15:19:01.816 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-10 15:19:03.522 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-10 15:19:05.186 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-10 15:19:10.217 [Test worker] Log - loginTest is starting
+[INFO ] 2021-07-10 15:19:10.271 [Test worker] Log - Clicking on SignIn button
+[INFO ] 2021-07-10 15:19:12.831 [Test worker] Log - Sending email using sendKeys
+[INFO ] 2021-07-10 15:19:12.915 [Test worker] Log - sending password using sendKeys
+[INFO ] 2021-07-10 15:19:12.984 [Test worker] Log - clicking on signIn for logging into application
+[INFO ] 2021-07-10 15:19:21.784 [Test worker] Log - getting title of page
+[INFO ] 2021-07-10 15:19:21.794 [Test worker] Log - Test is successfully passed
+[INFO ] 2021-07-10 15:19:22.981 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-10 15:19:23.263 [Test worker] Log - Test is ended
+[INFO ] 2021-07-10 15:19:23.264 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-10 16:35:58.840 [main] Log - Test is starting
+[INFO ] 2021-07-10 16:35:58.845 [main] Log - chrome is starting
+[INFO ] 2021-07-10 16:36:00.560 [main] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-10 16:36:29.240 [main] Log - loginTest is starting
+[WARN ] 2021-07-10 16:36:29.243 [main] Log - loginTest is skipped
+[INFO ] 2021-07-10 16:36:29.247 [main] Log - logoutTest is starting
+[WARN ] 2021-07-10 16:36:29.251 [main] Log - logoutTest is skipped
+[INFO ] 2021-07-10 16:36:29.254 [main] Log - LinkedIn TestTest is finished
+[INFO ] 2021-07-10 16:38:47.917 [main] Log - Test is starting
+[INFO ] 2021-07-10 16:38:47.921 [main] Log - chrome is starting
+[INFO ] 2021-07-10 16:38:49.669 [main] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-10 16:38:50.822 [main] Log - Launched the web application.
+[INFO ] 2021-07-10 16:38:55.840 [main] Log - loginTest is starting
+[INFO ] 2021-07-10 16:38:55.910 [main] Log - Clicking on SignIn button
+[INFO ] 2021-07-10 16:38:58.215 [main] Log - Sending email using sendKeys
+[INFO ] 2021-07-10 16:38:58.301 [main] Log - sending password using sendKeys
+[INFO ] 2021-07-10 16:38:58.371 [main] Log - clicking on signIn for logging into application
+[INFO ] 2021-07-10 16:39:06.255 [main] Log - getting title of page
+[INFO ] 2021-07-10 16:39:06.264 [main] Log - Test is successfully passed
+[INFO ] 2021-07-10 16:39:07.138 [main] Log - logoutTest is starting
+[INFO ] 2021-07-10 16:39:07.142 [main] Log - Clicking on SignIn button
+[WARN ] 2021-07-10 16:39:07.164 [main] Log - Test is failed
+[INFO ] 2021-07-10 16:39:07.763 [main] Log - Browser is closed
+[INFO ] 2021-07-10 16:39:11.943 [main] Log - Test is ended
+[INFO ] 2021-07-10 16:39:11.944 [main] Log - LinkedIn TestTest is finished
+[INFO ] 2021-07-10 16:41:42.829 [Test worker] Log - Test is starting
+[INFO ] 2021-07-10 16:41:42.834 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-10 16:41:44.609 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-10 16:41:45.666 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-10 16:41:50.696 [Test worker] Log - logoutTest is starting
+[INFO ] 2021-07-10 16:41:50.747 [Test worker] Log - Clicking on SignIn button
+[INFO ] 2021-07-10 16:41:52.895 [Test worker] Log - Sending email using sendKeys
+[INFO ] 2021-07-10 16:41:52.964 [Test worker] Log - sending password using sendKeys
+[INFO ] 2021-07-10 16:41:53.039 [Test worker] Log - clicking on signIn for logging into application
+[INFO ] 2021-07-10 16:42:00.532 [Test worker] Log - getting title of page
+[INFO ] 2021-07-10 16:42:00.547 [Test worker] Log - Clicking on profile button
+[INFO ] 2021-07-10 16:42:03.626 [Test worker] Log - Clicking on sign out
+[WARN ] 2021-07-10 16:42:03.646 [Test worker] Log - Test is failed
+[INFO ] 2021-07-10 16:42:04.419 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-10 16:42:08.598 [Test worker] Log - Test is ended
+[INFO ] 2021-07-10 16:42:08.599 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-10 16:43:13.416 [Test worker] Log - Test is starting
+[INFO ] 2021-07-10 16:43:13.424 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-10 16:43:15.299 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-10 16:43:16.325 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-10 16:43:21.355 [Test worker] Log - logoutTest is starting
+[INFO ] 2021-07-10 16:43:21.402 [Test worker] Log - Clicking on SignIn button
+[INFO ] 2021-07-10 16:43:23.557 [Test worker] Log - Sending email using sendKeys
+[INFO ] 2021-07-10 16:43:23.640 [Test worker] Log - sending password using sendKeys
+[INFO ] 2021-07-10 16:43:23.708 [Test worker] Log - clicking on signIn for logging into application
+[INFO ] 2021-07-10 16:43:31.699 [Test worker] Log - getting title of page
+[INFO ] 2021-07-10 16:43:31.713 [Test worker] Log - Clicking on profile button
+[INFO ] 2021-07-10 16:43:34.780 [Test worker] Log - Clicking on sign out
+[WARN ] 2021-07-10 16:43:34.808 [Test worker] Log - Test is failed
+[INFO ] 2021-07-10 16:43:36.194 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-10 16:43:40.360 [Test worker] Log - Test is ended
+[INFO ] 2021-07-10 16:43:40.361 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-10 16:46:31.676 [Test worker] Log - Test is starting
+[INFO ] 2021-07-10 16:46:31.682 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-10 16:46:33.392 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-10 16:46:34.580 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-10 16:46:39.601 [Test worker] Log - logoutTest is starting
+[INFO ] 2021-07-10 16:46:39.645 [Test worker] Log - Clicking on SignIn button
+[INFO ] 2021-07-10 16:46:41.962 [Test worker] Log - Sending email using sendKeys
+[INFO ] 2021-07-10 16:46:42.032 [Test worker] Log - sending password using sendKeys
+[INFO ] 2021-07-10 16:46:42.106 [Test worker] Log - clicking on signIn for logging into application
+[INFO ] 2021-07-10 16:46:49.224 [Test worker] Log - getting title of page
+[INFO ] 2021-07-10 16:46:49.233 [Test worker] Log - Clicking on profile button
+[INFO ] 2021-07-10 16:46:52.297 [Test worker] Log - Clicking on sign out
+[INFO ] 2021-07-10 16:46:53.381 [Test worker] Log - logout process ended
+[INFO ] 2021-07-10 16:46:55.408 [Test worker] Log - Test is successfully passed
+[INFO ] 2021-07-10 16:46:55.902 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-10 16:47:00.078 [Test worker] Log - Test is ended
+[INFO ] 2021-07-10 16:47:00.079 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-10 16:50:06.196 [main] Log - Test is starting
+[INFO ] 2021-07-10 16:50:06.202 [main] Log - chrome is starting
+[INFO ] 2021-07-10 16:50:07.984 [main] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-10 16:50:09.134 [main] Log - Launched the web application.
+[INFO ] 2021-07-10 16:50:14.151 [main] Log - loginTest is starting
+[INFO ] 2021-07-10 16:50:14.235 [main] Log - Clicking on SignIn button
+[INFO ] 2021-07-10 16:50:16.553 [main] Log - Sending email using sendKeys
+[INFO ] 2021-07-10 16:50:16.615 [main] Log - sending password using sendKeys
+[INFO ] 2021-07-10 16:50:16.680 [main] Log - clicking on signIn for logging into application
+[INFO ] 2021-07-10 16:50:23.940 [main] Log - getting title of page
+[INFO ] 2021-07-10 16:50:23.947 [main] Log - Test is successfully passed
+[INFO ] 2021-07-10 16:50:24.698 [main] Log - logoutTest is starting
+[INFO ] 2021-07-10 16:50:24.701 [main] Log - Clicking on SignIn button
+[WARN ] 2021-07-10 16:50:24.721 [main] Log - Test is failed
+[INFO ] 2021-07-10 16:50:25.340 [main] Log - Browser is closed
+[INFO ] 2021-07-10 16:50:29.535 [main] Log - Test is ended
+[INFO ] 2021-07-10 16:50:29.535 [main] Log - LinkedIn TestTest is finished
+[INFO ] 2021-07-10 16:52:57.534 [Test worker] Log - Test is starting
+[INFO ] 2021-07-10 16:52:57.538 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-10 16:52:59.282 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-10 16:53:00.501 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-10 16:53:05.535 [Test worker] Log - logoutTest is starting
+[INFO ] 2021-07-10 16:53:05.577 [Test worker] Log - Clicking on SignIn button
+[INFO ] 2021-07-10 16:53:07.603 [Test worker] Log - Sending email using sendKeys
+[INFO ] 2021-07-10 16:53:07.672 [Test worker] Log - sending password using sendKeys
+[INFO ] 2021-07-10 16:53:07.745 [Test worker] Log - clicking on signIn for logging into application
+[INFO ] 2021-07-10 16:53:16.152 [Test worker] Log - Clicking on profile button
+[INFO ] 2021-07-10 16:53:19.256 [Test worker] Log - Clicking on sign out
+[INFO ] 2021-07-10 16:53:20.325 [Test worker] Log - getting title of page
+[INFO ] 2021-07-10 16:53:20.416 [Test worker] Log - Clicking on profile button
+[WARN ] 2021-07-10 16:53:20.470 [Test worker] Log - Test is failed
+[INFO ] 2021-07-10 16:53:21.044 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-10 16:53:25.222 [Test worker] Log - Test is ended
+[INFO ] 2021-07-10 16:53:25.223 [Test worker] Log - Gradle testTest is finished

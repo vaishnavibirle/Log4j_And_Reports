@@ -8,7 +8,5 @@ com/bridgelabz/selenium/utility/listeners/ExtentReporterNG.java
  com.bridgelabz.selenium.utility.listeners.ExtentReporterNG
 com/bridgelabz/selenium/utility/listeners/TestListener.java
  com.bridgelabz.selenium.utility.listeners.TestListener
-com/bridgelabz/selenium/pages/HomePage.java
- com.bridgelabz.selenium.pages.HomePage
 com/bridgelabz/selenium/pages/Login.java
  com.bridgelabz.selenium.pages.Login

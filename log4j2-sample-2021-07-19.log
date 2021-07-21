@@ -1,0 +1,28 @@
+[INFO ] 2021-07-19 13:25:16.571 [Test worker] Log - Test is starting
+[INFO ] 2021-07-19 13:25:16.583 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-19 13:25:19.355 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-19 13:25:21.049 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-19 13:25:26.075 [Test worker] Log - loginTest is starting
+[INFO ] 2021-07-19 13:25:26.122 [Test worker] Log - Clicking on SignIn button
+[INFO ] 2021-07-19 13:25:28.878 [Test worker] Log - Sending email using sendKeys
+[INFO ] 2021-07-19 13:25:28.952 [Test worker] Log - sending password using sendKeys
+[INFO ] 2021-07-19 13:25:29.034 [Test worker] Log - clicking on signIn for logging into application
+[INFO ] 2021-07-19 13:25:47.813 [Test worker] Log - Clicking on profile button
+[WARN ] 2021-07-19 13:25:47.834 [Test worker] Log - Test is failed
+[INFO ] 2021-07-19 13:25:48.528 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-19 13:25:48.731 [Test worker] Log - Test is ended
+[INFO ] 2021-07-19 13:25:48.732 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-19 16:06:21.430 [Test worker] Log - Test is starting
+[INFO ] 2021-07-19 16:06:21.435 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-19 16:06:25.319 [Test worker] Log - navigating to url : https://www.linkedin.com/
+[INFO ] 2021-07-19 16:06:27.125 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-19 16:06:32.180 [Test worker] Log - loginTest is starting
+[INFO ] 2021-07-19 16:06:32.295 [Test worker] Log - Clicking on SignIn button
+[INFO ] 2021-07-19 16:06:35.520 [Test worker] Log - Sending email using sendKeys
+[INFO ] 2021-07-19 16:06:35.807 [Test worker] Log - sending password using sendKeys
+[INFO ] 2021-07-19 16:06:36.050 [Test worker] Log - clicking on signIn for logging into application
+[INFO ] 2021-07-19 16:06:55.964 [Test worker] Log - Clicking on profile button
+[WARN ] 2021-07-19 16:06:56.039 [Test worker] Log - Test is failed
+[INFO ] 2021-07-19 16:06:57.319 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-19 16:06:57.591 [Test worker] Log - Test is ended
+[INFO ] 2021-07-19 16:06:57.592 [Test worker] Log - Gradle testTest is finished
